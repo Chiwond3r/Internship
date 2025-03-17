@@ -6,7 +6,7 @@ export default function HerpowerColumnrecommend() {
     const sliderRef = React.useRef(null);
 
     return (
-        <div className="flex flex-col gap-4 self-strech px-5">
+        <div className="flex flex-col gap-4 self-stretch px-5">
             <div className="flex items-start justify-center">
                 <Heading size="header__16px__text" as="h1" className="self-center text-[16px] font-medium tracking-[-0.50px]">
                     Recommended for you
@@ -30,7 +30,7 @@ export default function HerpowerColumnrecommend() {
                         shape="square"
                         className="w-[16px] rotate-[90deg]"
                     >
-                        <Img Img src="images/img_arrow_down2.svg" />
+                        <Img src="images/img_arrow_down2.svg" />
                     </Button>
                 </div>
             </div>

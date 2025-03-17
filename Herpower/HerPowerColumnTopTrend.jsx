@@ -34,11 +34,11 @@ const data = [
 
 export default function HerPowerColumnTopTrend() {
     return (
-        <div className="flex flex-col items-start gap-4 self-strech px-5">
-            <Heading sixe="header__16px__text" as="h2" className="text-[16px] font-medium  tracking-[-0.50px]">
+        <div className="flex flex-col items-start gap-4 self-stretch px-5">
+            <Heading size="header__16px__text" as="h2" className="text-[16px] font-medium  tracking-[-0.50px]">
                 Top trending
             </Heading>
-            <div className="grid grid-cols-2 gap-4 self-strech md:grid-cols-1">
+            <div className="grid grid-cols-2 gap-4 self-stretch md:grid-cols-1">
                 <Suspense fallback={<div>Loading feed...</div>}>
                     {data.map((d, index) => (
                         <UserProfileCard {...d} key={"gridone" + index} />

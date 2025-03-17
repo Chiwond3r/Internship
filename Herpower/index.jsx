@@ -80,6 +80,16 @@ export default function HerpowerPage() {
                       Sports
                     </Text>
                   </div>
+                  <div className="flex w-[14%] flex-col items-center md:w-full">
+                    <Img
+                      src="images/img_rectangle_756_2.png"
+                      alt="Image"
+                      className="ml-1.5 h-[100px] w-full rounded-md object-cover md:ml-0 md:h-auto"
+                    />
+                    <Text as="p" className="relative mb-2.5 mt-[-2px] text-[14px] font-normal !text-[#ffffff]">
+                      Technology
+                    </Text>
+                  </div>
                 </div>
               </div>
             </div>

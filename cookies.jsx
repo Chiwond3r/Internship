@@ -11,7 +11,7 @@ export default function CookiesPages() { // Corrected function name
                 <meta name="description" content="Web site created using create-react-app" />
             </Helmet>
             <div className="w-full overflow-x-scroll bg-[#ffffff]">
-                <Header className="bg-[#ffffff] shadow- [0_4px_0_#0000000c]" />
+                <Header className="bg-[#ffffff] shadow-[0_4px_0_#0000000c]" />
                 <Sidebar9 />
             </div>
         </>

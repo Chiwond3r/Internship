@@ -40,37 +40,37 @@ export default function Sidebar9({ ...props }) {
                                     <>
                                         Last updated November 19, 2023
                                         <br />
-                                        This Cookie Policy explains how Better Women Better World, Inc (&quot;Company,&quot; &quot;we,&quot;
-                                        &quot;us,&quot; and &quot;our&quot;) uses cookies and similiar technologies to recognize you when you
+                                        This Cookie Policy explains how Better Women Better World, Inc ("Company," "we,"
+                                        "us," and "our") uses cookies and similar technologies to recognize you when you
                                         visit our website at&nbsp;
                                     </>
                                 </span>
                                 <span>
                                     <>
-                                        https://bw2club.com (&quot;Website&quot;). It explains what these technologies are and why we use
+                                        https://bw2club.com ("Website"). It explains what these technologies are and why we use
                                         them, as well as your rights to control our use of them.
                                         <br />
-                                        What are cookies ?
+                                        What are cookies?
                                         <br />
-                                        Cookies are small data files that are places on your computer when you visit a website. Cookies are
-                                        widely used by website owners in order to make their websites Work, or to work efficiently, as
-                                        well as to provide reporting Information.
-                                        < br />
-                                        Cookies set by the website onwer (in this case, Better Women Berter World, Inc) are called
-                                        &quot;first-party cookies.&quot; Cookies set by parties other than the websites owner are called
-                                        &quot;third-party cookies.&quot; Third-party cookies enable third-party features or functionality to
+                                        Cookies are small data files that are placed on your computer when you visit a website. Cookies are
+                                        widely used by website owners in order to make their websites work, or to work efficiently, as
+                                        well as to provide reporting information.
+                                        <br />
+                                        Cookies set by the website owner (in this case, Better Women Better World, Inc) are called
+                                        "first-party cookies." Cookies set by parties other than the website's owner are called
+                                        "third-party cookies." Third-party cookies enable third-party features or functionality to
                                         be provided on or through the website and only for the desktop users (e.g., advertising,
-                                        interactive content, and analytics). The parties that set these third-party cookkies can recognize
-                                        your computer both when it visit the website in question and also when it visits certain other
+                                        interactive content, and analytics). The parties that set these third-party cookies can recognize
+                                        your computer both when it visits the website in question and also when it visits certain other
                                         websites.
                                         <br />
                                         Why do we use cookies?
                                         <br />
-                                        We use first- and third-party cookies for several resons. Some cookies are reuired for technical
-                                        reasons in order for our website to operate, and we refer to these as &quot;essential&quot; or
-                                        &quot;strictly necessary&quot; other cookies and enable us to track and target the
-                                        interests of our users to enhance the experience onour Online Properties (these cookies are
-                                        implemented only on desktop users). Third parties serve cookies through our Website for advertising,
+                                        We use first- and third-party cookies for several reasons. Some cookies are required for technical
+                                        reasons in order for our website to operate, and we refer to these as "essential" or
+                                        "strictly necessary" cookies. Other cookies enable us to track and target the
+                                        interests of our users to enhance the experience on our online properties (these cookies are
+                                        implemented only on desktop users). Third parties serve cookies through our website for advertising,
                                         analytics, and other purposes. This is described in more detail below.
                                     </>
                                 </span>
